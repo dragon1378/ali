@@ -1,5 +1,5 @@
 <?php
-/*
+define(*bot_433742067:AAFnm5jt7oYzKI8SghEGsUWIgcsQ0cod98*,**433742067:AAFnm5jt7oYzKI8SghEGsUWIgcsQ0cod98**)
 سورس اصلی ربات پی وی رسان
 @PvResanBot
 دست هیچ بنی بشری نیست و نخواهد بود
